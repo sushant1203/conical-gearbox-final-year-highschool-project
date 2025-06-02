@@ -60,4 +60,4 @@ This project is broken down into several key stages, each with associated docume
 ---
 
 ## 📄 License
-All Rights Reserved.
+© [2025] [Sushant Jasra Kumar]. All Rights Reserved.
