@@ -4,7 +4,7 @@
 ## 📜 Project Overview
 This repository documents a comprehensive high school project focused on the design, analysis, and specification of a **conical gear reducer**. The project encompasses the entire design lifecycle, from initial specifications and material selection to detailed component dimensioning, working drawings adhering to UNI ISO standards (as valid in Italy), and assembly considerations. Each stage of the project is supported by detailed documentation, including PDFs, screenshots, technical drawings, illustrations, and calculation tables.
 
-**All detailed project materials, such as technical drawings, tables, illustrations, screenshots, and supporting details, are available in the main project PDF: [View Main Project PDF](KUMAR SUSHANT JASRA ELABORATO.pdf)**
+All detailed project materials, such as technical drawings, tables, illustrations, screenshots, and supporting details, are available in the main project PDF: [View Main Project PDF](./KUMAR SUSHANT JASRA ELABORATO.pdf)
 
 ---
 
